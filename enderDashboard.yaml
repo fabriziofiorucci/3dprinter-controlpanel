@@ -1,0 +1,22 @@
+Temperatures:
+  - name: "PLA Temp"
+    cmd: "echo pla_temp"
+  - name: "PETG Temp"
+    cmd: "echo petg_temp"
+  - name: "ASA Temp"
+    cmd: "echo asa_temp"
+Nozzle:
+  - name: "Nozzle on"
+    cmd: "cat /proc/cpuinfo"
+  - name: "Nozzle off"
+    cmd: "cat /proc/filesystems"
+Octoprint:
+  - name: "Start"
+    cmd: "octo_on"
+  - name: "Stop"
+    cmd: "octo_off"
+Ender:
+  - name: "Power on"
+    cmd: "ender_on"
+  - name: "Power off"
+    cmd: "ender_off"
