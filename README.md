@@ -12,3 +12,7 @@ https://a.aliexpress.com/_BSW2nI
 The thingiverse project with all STL files to print is https://www.thingiverse.com/thing:4482919
 
 <img src="./pics/IMG_1087.jpg"/>
+
+<img src="./pics/IMG_1134.jpg"/>
+
+<img src="./pics/IMG_2589.jpg"/>
